@@ -349,7 +349,7 @@ console.log(fullJapan);
 
     Question.prototype.displayScore = function(score) {
         console.log('Your current score is ' + score);
-        console.log('-------------------------------');
+        console.log('------------------------------');
     }
 
     function score() {
